@@ -1,0 +1,2 @@
+# techstack
+An opinionated list of technology to use in startups and small businesses, for people who don't have the time or inclination to select options. All of the technology in the stack has been selected, procured, implemented and tested with rest of the stack to work competently. There may be better or more appropriate alternatives for your specific use case, and so you should treat this as guidance. There is no warranty implied in these recommendations, and your mileage may vary. Ultimately, responsibility for your selection rests with you. Choose wisely.
